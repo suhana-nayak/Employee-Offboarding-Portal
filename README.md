@@ -1,11 +1,11 @@
 # Employee Exit & Offboarding Dashboard  
 
 ## 1. Project Title 
-**Exit Insights: Employee Exit & Offboarding Analysis Dashboard**  
+**Employee Exit & Offboarding Analysis Dashboard**  
 An interactive Power BI dashboard designed to analyze employee exit trends, reasons, and departmental impact.  
 
 ## 2. Description 
-This dashboard provides HR and leadership teams with clear insights into employee exits across departments, reasons behind attrition, approval/rejection decisions, and trends over time. It supports workforce planning, retention strategy, and organizational improvements.  
+This dashboard provides HR and leadership teams with clear insights of employee exits across departments, reasons behind attrition, approval/rejection decisions, and trends over time. It supports workforce planning, retention strategy, and organizational improvements.  
 
 ## 3. Tech Stack  
 The dashboard was built using the following tools and technologies:  
@@ -59,8 +59,4 @@ To provide HR and management with an interactive tool that:
 - **Decision Tracking:** Captures approval/rejection trends for exit requests.  
 
 ## 6. Screenshot
-
-Example:  
-# ![Dashboard Preview](./Images/EmployeeExitDashboard.png)  
-
-# ![Dashboard Preview](./Snapshot%20of%20Dashboard.png)
+![Dashboard Preview](./Dashboard%20Snapshot.png)
